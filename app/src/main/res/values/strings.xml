@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP1_java</string>
+    <string name="name_text">Nom</string>
+    <string name="surname_text">Prenom</string>
+    <string name="age_text">Age</string>
+    <string name="skill_text">Domaine de competences</string>
+    <string name="tel_text">Numero de telephone</string>
+    <string name="ok_button">Enregistrer</string>
+</resources>
